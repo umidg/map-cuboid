@@ -1,0 +1,18 @@
+.map {
+  position: relative !important;
+  display: flex;
+  justify-content: center;
+}
+
+.map > div {
+  width: 80% !important;
+}
+.capture {
+  outline: none;
+  padding: 10px;
+  border: none;
+  background-color: purple;
+  margin: 10px;
+  color: white;
+  cursor: pointer;
+}
