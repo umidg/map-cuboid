@@ -1,6 +1,6 @@
-# Before getting started please set env file with REACT_APP_MAPBOX_API_KEY
+# Before getting started please set env file with REACT_APP_MAPBOX_API_KEY with Mapbox api
 
-### ./env on your root folder
+### ./env on your root folder 
 
 
 # Now Getting Started with Create React App
