@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Before getting started please set env file with REACT_APP_MAPBOX_API_KEY
+
+### ./env on your root folder
+
+
+# Now Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
